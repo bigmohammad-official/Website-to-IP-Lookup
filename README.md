@@ -9,16 +9,18 @@ To install the required libraries for the project, you can follow these steps:
 Install the necessary libraries specified in the "requirements.txt" file by running the following command in your terminal:
 Copy code
 
-⚠️```shell
+```shell
 pip install -r requirements.txt
-```⚠️
+```
 
 
 After the installation is complete, run the following command to execute the source code:
 Copy code
 
-⚠️```shell 
-python main.py```⚠️
+```shell
+python main.py
+```
+
 Use the installed libraries and execute the source code as needed.
 
 Code by bigmohammad
