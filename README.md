@@ -10,7 +10,8 @@ Install the necessary libraries specified in the "requirements.txt" file by runn
 Copy code
 
 ⚠️```shell
-pip install -r requirements.txt```⚠️
+pip install -r requirements.txt
+```⚠️
 
 
 After the installation is complete, run the following command to execute the source code:
