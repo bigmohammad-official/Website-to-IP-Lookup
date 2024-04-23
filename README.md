@@ -1,7 +1,3 @@
-#Youtube: bigmohammad
-#---------------------
-#Instagram: bigmohammad.official
-
 # Website-to-IP-Lookup
 Get domain or website information through "Website to IP Lookup"
 
